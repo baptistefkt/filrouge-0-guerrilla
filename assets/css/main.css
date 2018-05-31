@@ -2868,7 +2868,7 @@
 					font-weight: 600;
 					text-align: center;
 					color: #fff;
-					z-index: 1;
+					z-index: 1;			
 				}
 
 					#titleBar .title em {
@@ -3146,6 +3146,9 @@
 				padding: 20px;
 			}
 
+
+
+
 		/* Footer */
 
 			#footer {
@@ -3153,4 +3156,9 @@
 				text-align: left;
 			}
 
+	}
+
+	#imageNews {
+		width: 300px;
+		height: auto;
 	}
